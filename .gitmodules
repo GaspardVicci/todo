@@ -1,0 +1,6 @@
+[submodule "todo-sapper"]
+	path = todo-sapper
+	url = https://github.com/GaspardVicci/todo-sapper.git
+[submodule "todo-services"]
+	path = todo-services
+	url = https://github.com/GaspardVicci/todo-services.git
